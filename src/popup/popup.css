@@ -1,0 +1,25 @@
+body { 
+  min-width: 420px; 
+  overflow-x: hidden; 
+  font-family: Arial, sans-serif; 
+  font-size: 12px; 
+}
+input, textarea { 
+  width: 420px; 
+  text-decoration: none;
+  line-height: 2.0em;
+  color: #999999;
+  font-size: 1.2em;
+  letter-spacing: 1px;
+  background: #EDEDEE;
+  border: 1px solid #F7BF7D;
+  outline: medium;
+  cursor: pointer;
+  -webkit-appearance: none;
+  -webkit-border-radius: 0;
+  padding: 2px 10px;
+}
+
+.group h4 { 
+  margin: 5px 0;
+}
